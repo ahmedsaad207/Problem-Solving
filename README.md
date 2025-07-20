@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0205-isomorphic-strings) |
+| [0219-contains-duplicate-ii](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0021-merge-two-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

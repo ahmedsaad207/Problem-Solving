@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 ## Sorting
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0219-contains-duplicate-ii) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |

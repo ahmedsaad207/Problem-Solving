@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0383-ransom-note) |
+| [0392-is-subsequence](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/ahmedsaad207/Problem-Solving/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |

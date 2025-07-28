@@ -21,10 +21,29 @@ class Solution {
         // return -1;
 
         // Using substring
-        for (int i=0; i<haystack.length()-needle.length()+1; i++) {
-            if (haystack.substring(i,i+needle.length()).equals(needle)) return i;
+        // for (int i=0; i<haystack.length()-needle.length()+1; i++) {
+        //     if (haystack.substring(i,i+needle.length()).equals(needle)) return i;
+        // }
+        // return -1;
+
+        int ptr = 0, temp=-1;
+
+        for (int i=0; i<haystack.length(); i++) {
+            if (needle.charAt(ptr) == haystack.charAt(i)) {
+                if (ptr == 0) temp=i;
+                ptr++;
+            }
+            else {
+                if (ptr>0) i= temp;
+                ptr=0;
+                temp = -1;
+            }
+
+            if (ptr==needle.length()) return temp;
         }
+
         return -1;
+
     }
     
 }
